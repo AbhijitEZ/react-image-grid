@@ -1,3 +1,8 @@
+# React Image Grid
+
+A simple image grid layout with modal and json placeholder data.
+
+## Installation
 Clone this repo to your system, you need to install all package via `npm install` or `yarn install` as per your need.<br>
 
 In the project directory, you can run:
